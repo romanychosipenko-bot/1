@@ -1,0 +1,8 @@
+{
+  "name": "codex-test-project",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "codex": "node test_codex.js"
+  }
+}
